@@ -14,10 +14,3 @@ Sumit Bhattacharya
 
 Ninad Bhole
 
-**Timeline:**
-
-Basic UI Done
-
-Pancard Dataset Created and labled
-
-Training and Validation of darknet (underprogress)
