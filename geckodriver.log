@@ -1,0 +1,159 @@
+1615277739581	geckodriver	INFO	Listening on 127.0.0.1:57975
+1615277739585	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepogFHU"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615277743913	Marionette	INFO	Listening on port 41983
+1615277744110	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1615277796099	Marionette	INFO	Stopped listening on port 41983
+1615277994981	geckodriver	INFO	Listening on 127.0.0.1:53139
+1615277994986	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYKHeat"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615277998986	Marionette	INFO	Listening on port 40803
+1615277999022	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+
+(firefox:10390): GLib-GObject-WARNING **: 13:51:37.275: ../../../gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7fd0bd4b9530' of type 'MaiAtkType21'
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1615278098840	Marionette	INFO	Stopped listening on port 40803
+1615280095789	geckodriver	INFO	Listening on 127.0.0.1:34455
+1615280095847	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRlT8OI"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615280102409	Marionette	INFO	Listening on port 37549
+1615280102711	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+
+(firefox:14212): GLib-GObject-WARNING **: 14:25:19.703: ../../../gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7fe214c69e90' of type 'MaiAtkType21'
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1615280284196	Marionette	INFO	Stopped listening on port 37549
+1615280285581	geckodriver	INFO	Listening on 127.0.0.1:59717
+1615280285584	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledVi4nO"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615280290086	Marionette	INFO	Listening on port 33563
+1615280290120	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+1615280380921	geckodriver	INFO	Listening on 127.0.0.1:51237
+1615280380925	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledFKDvU"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615280386433	Marionette	INFO	Listening on port 39859
+1615280386455	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+
+(firefox:14816): GLib-GObject-WARNING **: 14:29:48.049: ../../../gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f20d2fcf2f0' of type 'MaiAtkType21'
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1615280390645	Marionette	INFO	Stopped listening on port 33563
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1615280459324	Marionette	INFO	Stopped listening on port 39859
+1615280463664	geckodriver	INFO	Listening on 127.0.0.1:52079
+1615280463668	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiiHQZi"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615280467786	Marionette	INFO	Listening on port 32987
+1615280467893	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1615280487968	Marionette	INFO	Stopped listening on port 32987
+1615280488527	geckodriver	INFO	Listening on 127.0.0.1:35489
+1615280488530	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWDJY7E"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615280492710	Marionette	INFO	Listening on port 38989
+1615280492757	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+1615280542673	Marionette	INFO	Stopped listening on port 38989
+1615280614703	geckodriver	INFO	Listening on 127.0.0.1:44313
+1615280614719	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEDUiKX"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615280619106	Marionette	INFO	Listening on port 33321
+1615280619145	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1615280706351	Marionette	INFO	Stopped listening on port 33321
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615280709102	geckodriver	INFO	Listening on 127.0.0.1:48857
+1615280709106	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7P3agr"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615280713409	Marionette	INFO	Listening on port 35771
+1615280713434	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1615280772598	Marionette	INFO	Stopped listening on port 35771
+1615280776162	geckodriver	INFO	Listening on 127.0.0.1:46101
+1615280776166	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiles7Ez9G"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615280780880	Marionette	INFO	Listening on port 43241
+1615280780993	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1615281826859	Marionette	INFO	Stopped listening on port 43241
+1615281833564	geckodriver	INFO	Listening on 127.0.0.1:43613
+1615281833568	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilem73UVc"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615281838408	Marionette	INFO	Listening on port 35603
+1615281838523	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1615281860243	Marionette	INFO	Stopped listening on port 35603
+1615281861487	geckodriver	INFO	Listening on 127.0.0.1:53819
+1615281861491	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevSxQfu"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615281865678	Marionette	INFO	Listening on port 34537
+1615281865717	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1615281907749	Marionette	INFO	Stopped listening on port 34537
+1615281908963	geckodriver	INFO	Listening on 127.0.0.1:54141
+1615281908968	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekXs1DD"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615281913717	Marionette	INFO	Listening on port 39319
+1615281913802	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+
+(firefox:20684): GLib-GObject-WARNING **: 14:56:15.295: ../../../gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f4f1fc56b90' of type 'MaiAtkType139'
+
+(firefox:20684): GLib-GObject-WARNING **: 14:56:15.295: ../../../gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f4f1fc56350' of type 'MaiAtkType139'
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1615283511465	Marionette	INFO	Stopped listening on port 39319
+1615284432662	geckodriver	INFO	Listening on 127.0.0.1:37115
+1615284432665	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledEW7Lb"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615284437201	Marionette	INFO	Listening on port 36381
+1615284437320	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+
+(firefox:25392): GLib-GObject-WARNING **: 15:39:02.206: ../../../gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7fe3d58758f0' of type 'MaiAtkType21'
+JavaScript error: chrome://browser/content/browser-customization.js, line 166: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1615284613636	Marionette	INFO	Stopped listening on port 36381
+1615284645800	geckodriver	INFO	Listening on 127.0.0.1:47315
+1615284645802	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEcpycZ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615284650567	Marionette	INFO	Listening on port 37281
+1615284650629	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1615284806644	Marionette	INFO	Stopped listening on port 37281
+1615798410069	geckodriver	INFO	Listening on 127.0.0.1:51331
+1615798410795	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSfQLk7"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:17100): GLib-GObject-CRITICAL **: 14:23:58.338: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:17131): GLib-GObject-CRITICAL **: 14:23:59.527: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:17168): GLib-GObject-CRITICAL **: 14:24:02.157: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:17170): GLib-GObject-CRITICAL **: 14:24:02.286: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615798445285	Marionette	INFO	Listening on port 38481
+1615798445585	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.

@@ -1,0 +1,17 @@
+1615838085133	geckodriver	INFO	Listening on 127.0.0.1:52759
+1615838086081	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6S2Jgg"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:61761): GLib-GObject-CRITICAL **: 19:55:07.238: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:61767): GLib-GObject-CRITICAL **: 19:55:07.239: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:61975): GLib-GObject-CRITICAL **: 19:55:11.501: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 773))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 422))
+1615838116604	Marionette	INFO	Listening on port 35065
+1615838116962	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+JavaScript error: https://resident.uidai.gov.in/inc/static/js/chatBot.min.js, line 1: TypeError: document.getElementById(...) is null
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
